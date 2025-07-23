@@ -10,3 +10,13 @@ Provide a movie api for reactjs app.
 4. `git add` 
 5. `git commit -m "Your msg"`
 6. `git push -u origin main` or `git push`
+
+
+### Database options
+
+1. SQL - (MySql, MariaDB, PostgreSQL)
+2. NoSQL - (MongoDB)
+
+
+thibakarsri33
+TwEjcxWBlDOonPHT
